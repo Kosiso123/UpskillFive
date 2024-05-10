@@ -756,6 +756,7 @@
     /* html{
         font-size: 70%;
     } */
+    
     .services-container{
         padding-bottom: 7rem;
         grid-template-columns: repeat(1,1fr);
@@ -822,6 +823,16 @@
     .contact{
         flex-wrap: wrap;
         flex-direction: column;
+    }
+}
+@media(max-width:898px){
+    body{
+        max-width: 890;
+    }
+    .services-container{
+        padding-bottom: 7rem;
+        grid-template-columns: repeat(1,1fr);
+        margin-bottom: 5rem;
     }
 }
    
