@@ -825,9 +825,9 @@
         flex-direction: column;
     }
 }
-@media(max-width:898px){
+@media(max-width:700px){
     body{
-        max-width: 890;
+        max-width: 600;
     }
     .services-container{
         padding-bottom: 7rem;
