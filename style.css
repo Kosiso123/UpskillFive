@@ -777,13 +777,14 @@
         /* margin: 0 5rem; */
         text-align: center;
     }
-    .Rating-info{
-        max-width: 600px;
-    }
+   
 }
 @media(max-width:991px){
     section{
         padding: 2rem 3%;
+    }
+    .Rating{
+        max-width: 600px;
     }
     .timeline-items::before{
         left: 7px;
