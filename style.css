@@ -759,13 +759,7 @@
     } */
 
 
-    .Rating{
-        max-width: 600px;
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
-        gap: 20px;
-       
-    }
+   
     
     .services-container{
         padding-bottom: 7rem;
@@ -773,7 +767,7 @@
         margin-bottom: 3rem;
     }
     .skills h2{
-        margin-right: 100px;
+        margin-right: 50px;
     }
     .skill-container{
         padding-bottom: 7rem;
@@ -815,12 +809,7 @@
     .services{
         padding-bottom: 7rem;
     }
-    .Rating{
-        max-width: 600px;
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
-        gap: 20px;
-       
+   
     }
 
     .article-container{
@@ -834,17 +823,16 @@
     }
     .article-writeUp p{
         width: 200px;
-        /* text-align: center; */
     }
     .hire-info p{
-        padding: 100px;
+        padding: 50px;
     }
     .contact{
         flex-wrap: wrap;
         flex-direction: column;
-        width: 500px;
+        
     }
-}
+
 
    
     
