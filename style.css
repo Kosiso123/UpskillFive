@@ -783,7 +783,7 @@
     section{
         padding: 2rem 3%;
     }
-    .Rating{
+    .Rating-info{
         max-width: 600px;
     }
     .timeline-items::before{
