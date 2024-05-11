@@ -828,6 +828,9 @@
         /* margin: 0 auto; */
         /* padding: 2rem 2rem; */
     }
+    .input-group .input-group2{
+        width: 50%;
+    }
 
     .article-container{
         padding-bottom: 7rem;
