@@ -315,6 +315,7 @@
     font-weight: 400;
 
 }
+
 .Rating-info{
     max-width: 100%;
     display: grid;
@@ -756,6 +757,14 @@
     /* html{
         font-size: 70%;
     } */
+    .Rating-info{
+        max-width: 100%;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+        gap: 20px;
+        /* margin: 0 auto; */
+        padding: 2rem 2rem;
+    }
     
     .services-container{
         padding-bottom: 7rem;
