@@ -757,6 +757,9 @@
     /* html{
         font-size: 70%;
     } */
+    body{
+        max-width: 500px;
+    }
     .Rating-info{
         max-width: 600px;
         display: grid;
